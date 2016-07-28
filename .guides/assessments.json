@@ -1,0 +1,220 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1946142217",
+  "source": {
+   "name": "1. Which of the following is not a function of an operating system?",
+   "showName": false,
+   "instructions": "**1. Which of the following is not a function of an operating system?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Peripheral management",
+     "correct": false,
+     "_id": "6f3f579d-6848-9aa6-5b77-df10d84c6593"
+    },
+    {
+     "answer": "Multi-Tasking",
+     "correct": false,
+     "_id": "97e2705d-70e8-9178-d099-078204d303cc"
+    },
+    {
+     "correct": true,
+     "answer": "Degragmentation",
+     "_id": "9ea850f6-dffc-1dd5-f7ad-f9dc21c1ab6a"
+    },
+    {
+     "answer": "User Interface",
+     "correct": false,
+     "_id": "4e422302-6d9c-9895-887a-3b9cc4b87ee2"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1144764649",
+  "source": {
+   "name": "2. Which of the following is not a type of interface that is provided by an operating system",
+   "showName": false,
+   "instructions": "**2. Which of the following is not a type of interface that is provided by an operating system**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "GUI",
+     "correct": false,
+     "_id": "de757001-ec06-9358-b679-e50e739874be"
+    },
+    {
+     "answer": "Menu",
+     "correct": false,
+     "_id": "af5696de-a1cd-a7a9-38e8-ac504d469c21"
+    },
+    {
+     "answer": "Form",
+     "correct": false,
+     "_id": "29b88946-bd6f-5a93-fe7f-35a02d2331c5"
+    },
+    {
+     "correct": true,
+     "answer": "Window",
+     "_id": "6381e7a5-865b-2cf9-00fb-fbeca8b69771"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-483525859",
+  "source": {
+   "name": "3. Name an approach used by the Operating system when multi-tasking",
+   "showName": false,
+   "instructions": "**3. Name an approach used by the Operating system when multi-tasking**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "last in last out",
+     "correct": false,
+     "_id": "c0951a4b-ab80-affc-91c7-f9a2a35b48a3"
+    },
+    {
+     "correct": true,
+     "answer": "Shortest job first",
+     "_id": "33634296-c456-26eb-ef8f-9282603434c4"
+    },
+    {
+     "answer": "First in last served",
+     "correct": false,
+     "_id": "a1fa53c4-1a7a-ebde-9ced-dd75529653e4"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1965729066",
+  "source": {
+   "name": "4. Which of the following is not a Peripheral",
+   "showName": false,
+   "instructions": "**4. Which of the following is not a Peripheral**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Keyboard",
+     "correct": false,
+     "_id": "de329d48-45e2-31e1-027e-42c62bd9deb0"
+    },
+    {
+     "answer": "Camera",
+     "correct": false,
+     "_id": "c5cae32d-9b36-4ee5-badc-2344612d7213"
+    },
+    {
+     "correct": true,
+     "answer": "Graphics Card",
+     "_id": "19505466-0d99-0d31-180c-00b0d80759a4"
+    },
+    {
+     "answer": "Printer",
+     "correct": false,
+     "_id": "5e880551-a253-1e36-e404-cfb1acb92a26"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2834731567",
+  "source": {
+   "name": "5. What is the name of the software on a server that allows the management of user accounts",
+   "showName": false,
+   "instructions": "**5. What is the name of the software on a server that allows the management of user accounts**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Account manager",
+     "correct": false,
+     "_id": "b4b6199c-607b-7e9f-717f-30e61c5c87c3"
+    },
+    {
+     "correct": true,
+     "answer": "Active Directory",
+     "_id": "f07253e4-b37f-167b-7536-f213ab580d09"
+    },
+    {
+     "answer": "User directory",
+     "correct": false,
+     "_id": "a2ce58c0-ae12-c666-3f92-00886f6021f4"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3547391307",
+  "source": {
+   "name": "6. Which of the following would you not use Lossy compression on?",
+   "showName": false,
+   "instructions": "**6. Which of the following would you not use Lossy compression on?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Image of a historic castle",
+     "correct": false,
+     "_id": "43026b78-7d35-c428-63b5-95e6ddf0dfbb"
+    },
+    {
+     "correct": true,
+     "answer": "Video of a school assembly",
+     "_id": "faf897bf-a5db-d5d8-b068-1513163961ea"
+    },
+    {
+     "answer": "Source code of a program",
+     "correct": false,
+     "_id": "a50e9495-4bfb-860d-1b55-3f39c98fc4b9"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2764860056",
+  "source": {
+   "name": "7. Which of these is not an advantage of an Incremental backup",
+   "showName": false,
+   "instructions": "**7. Which of these is not an advantage of an Incremental backup**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Faster",
+     "correct": false,
+     "_id": "ec6b37ea-1f94-c510-1e79-15b903307adb"
+    },
+    {
+     "correct": true,
+     "answer": "A full restore can be performed by one backup",
+     "_id": "44b5e08f-13de-5de1-1403-047312f1e534"
+    },
+    {
+     "answer": "Uses up less storage",
+     "correct": false,
+     "_id": "fc00cf3f-e75f-87c3-a510-9088911a991d"
+    }
+   ]
+  }
+ }
+]
