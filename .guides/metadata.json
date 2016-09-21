@@ -10,17 +10,6 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false
-  },
-  {
-   "id": "5726dbff-e145-9951-fa85-6775b93bfdc7",
-   "title": "Section 2",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Section-2-5726.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
   }
  ],
  "theme": "light",
