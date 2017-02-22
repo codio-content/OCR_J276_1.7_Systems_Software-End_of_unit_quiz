@@ -171,19 +171,19 @@
    "multipleResponse": false,
    "answers": [
     {
-     "answer": "Image of a historic castle",
+     "_id": "43026b78-7d35-c428-63b5-95e6ddf0dfbb",
      "correct": false,
-     "_id": "43026b78-7d35-c428-63b5-95e6ddf0dfbb"
+     "answer": "Image of a historic castle"
     },
     {
+     "_id": "faf897bf-a5db-d5d8-b068-1513163961ea",
+     "correct": false,
+     "answer": "Video of a school assembly"
+    },
+    {
+     "_id": "a50e9495-4bfb-860d-1b55-3f39c98fc4b9",
      "correct": true,
-     "answer": "Video of a school assembly",
-     "_id": "faf897bf-a5db-d5d8-b068-1513163961ea"
-    },
-    {
-     "answer": "Source code of a program",
-     "correct": false,
-     "_id": "a50e9495-4bfb-860d-1b55-3f39c98fc4b9"
+     "answer": "Source code of a program"
     }
    ]
   }

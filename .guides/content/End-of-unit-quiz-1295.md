@@ -28,7 +28,7 @@ Active Directory
 {Check It!|assessment}(multiple-choice-3547391307)
 |||guidance
 # Solution
-Video of a school assembly
+Source code of a program
 |||
 {Check It!|assessment}(multiple-choice-2764860056)
 |||guidance
